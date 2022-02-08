@@ -26,7 +26,7 @@ GitHubにはリポジトリという概念が存在します。まずは現在�
 作成したRepositoryにアクセスするとこのような画面になります。これがRepositoryの初期状態です。ファイルやフォルダをアップロードする場合は、背景が青色の部分に記載されている「uploading an existing file」を選択してください。
 ![7f169fac-c000-4153-9db4-5ec30940023b](https://user-images.githubusercontent.com/64563041/152908502-ae48af95-cd10-43b2-beda-0413f4901093.jpeg)
 中央にアップロードしたいフォルダやファイルをドロップしてください。
-![Uploading 1c847d86-b525-47c4-a103-b82beed57bd6.jpeg…]()
+![image](https://user-images.githubusercontent.com/64563041/152909302-44106467-d430-4ccd-a01b-d51be2b5eeee.png)
 「Commit Changes」を選択するとアップロードが反映されます。必要に応じてファイルやフォルダの説明をCommit changesに記載してください。
 以上で変更が反映されました。説明を終わります。分からないところは各自ググってください。
 # Note(注意点)
