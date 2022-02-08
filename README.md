@@ -19,7 +19,7 @@ GitHubにはリポジトリという概念が存在します。まずは現在�
 ![627df477-f7a0-4a10-bc2d-f5166f177fc8](https://user-images.githubusercontent.com/64563041/152907247-9dbbe2fa-f38d-43ab-a8e1-5443882ea067.jpeg)
 「New Repository」を選択してください。
 ![608c8c4e-86e2-40f0-ad93-9258cf91209e-1](https://user-images.githubusercontent.com/64563041/152907351-ff37d45d-3e36-41af-a028-9a097f470a49.jpeg)
-「Repository name」には前述の命名規則に沿ってRepositoryの名前を入力してください。PublicとPrivateの二つの選択肢がありますが下宿の皆がみられるようにPublicを選択してください。
+「Repository name」には前述の命名規則に沿ってRepositoryの名前を入力してください。PublicとPrivateの二つの選択肢がありますが外部に公開できないようにPrivateを選択してください。
 入力が終えたら「Create Repository」を選択してください。これでRepositoryを作成することができました。
 続いては、ファイルのアップロード方法です。
 ![7575de96-cdd3-436a-b8d9-1d68b92b7f2c](https://user-images.githubusercontent.com/64563041/152907798-647e9930-9a80-42f4-9710-9201a2eed471.jpeg)
