@@ -13,11 +13,22 @@ GitHubにはリポジトリという概念が存在します。まずは現在�
 
 # リポジトリの説明
 基本的には一つの講義に対して一つのリポジトリを設けています。
-
+![2497a8a3-0c18-420d-ba8f-42f69e7fdfca](https://user-images.githubusercontent.com/64563041/152907133-60f4c040-810a-42b8-a944-c396f607852d.jpeg)
 これがオーガナイゼーションの基本的な画面です。
 リポジトリを作成するには「Repository」を選択してください。
-
-
+![627df477-f7a0-4a10-bc2d-f5166f177fc8](https://user-images.githubusercontent.com/64563041/152907247-9dbbe2fa-f38d-43ab-a8e1-5443882ea067.jpeg)
+「New Repository」を選択してください。
+![608c8c4e-86e2-40f0-ad93-9258cf91209e-1](https://user-images.githubusercontent.com/64563041/152907351-ff37d45d-3e36-41af-a028-9a097f470a49.jpeg)
+「Repository name」には前述の命名規則に沿ってRepositoryの名前を入力してください。PublicとPrivateの二つの選択肢がありますが下宿の皆がみられるようにPublicを選択してください。
+入力が終えたら「Create Repository」を選択してください。これでRepositoryを作成することができました。
+続いては、ファイルのアップロード方法です。
+![7575de96-cdd3-436a-b8d9-1d68b92b7f2c](https://user-images.githubusercontent.com/64563041/152907798-647e9930-9a80-42f4-9710-9201a2eed471.jpeg)
+作成したRepositoryにアクセスするとこのような画面になります。これがRepositoryの初期状態です。ファイルやフォルダをアップロードする場合は、背景が青色の部分に記載されている「uploading an existing file」を選択してください。
+![7f169fac-c000-4153-9db4-5ec30940023b](https://user-images.githubusercontent.com/64563041/152908502-ae48af95-cd10-43b2-beda-0413f4901093.jpeg)
+中央にアップロードしたいフォルダやファイルをドロップしてください。
+![Uploading 1c847d86-b525-47c4-a103-b82beed57bd6.jpeg…]()
+「Commit Changes」を選択するとアップロードが反映されます。必要に応じてファイルやフォルダの説明をCommit changesに記載してください。
+以上で変更が反映されました。説明を終わります。分からないところは各自ググってください。
 # Note(注意点)
 
  GitHubの操作方法が分からない場合はむやみに操作せず利用方法がわかる人に聞きましょう。
