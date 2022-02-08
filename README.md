@@ -1,0 +1,2 @@
+# Description-of-this-organization
+このオーガナイゼーションの説明を行うためのリポジトリです。基本的なGitHubの操作とこのオーガナイゼーションの目的を説明しています。
